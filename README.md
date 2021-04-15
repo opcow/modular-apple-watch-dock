@@ -1,8 +1,8 @@
 # Modular Apple Watch Dock / Charging Stand
 
-There are lots of parts here, but a working base only needs 4 printed parts, a base, charger mount, a claw, and a screw.
+There are lots of parts here, but a working base only needs 4 printed parts, a base, charger mount, a claw, and a screw. The mini version is only 2 printed parts. Nothing else is needed.
 
-There are 2 base versions. V2 uses an adjustable stop for the charger mount. You'll need to print this stop if using V2 or alternatively use an M4 screw with a shim to clamp the charger mount in place. There are versions of the bases that have holes for mounting feet or magnets on the bottom and versions with no holes. The holes were sized to fits some 3mm x 6mm neodymium magnets I have. The `foot-1.stl` part can also be pressed into the holes. If you don't want feet or magnets, or you want to use adhesive feet/pads of some sort then use the no-holes version.
+Version 2 uses an adjustable stop for the charger mount. You'll need to print this stop if using V2 or alternatively use an M4 screw with a shim to clamp the charger mount in place. There are versions of the bases that have holes for mounting feet or magnets on the bottom and versions with no holes. The holes were sized to fits some 3mm x 6mm neodymium magnets I have. The `foot.stl` part can also be pressed into the holes. If you don't want feet or magnets, or you want to use adhesive feet/pads of some sort then use the no-holes version.
 
 The cradle part is optional. My 44mm v6 watch doesn't need it. Maybe it could help with the 40mm, or use V2 which can be adjusted for the size of your watch. ¯\\_(ツ)_/¯
 
