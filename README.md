@@ -6,8 +6,6 @@ There are 2 base versions. V2 uses an adjustable stop for the charger mount. You
 
 The cradle part is optional. My 44mm v6 watch doesn't need it. Maybe it could help with the 40mm, or use V2 which can be adjusted for the size of your watch. ¯\\_(ツ)_/¯
 
-The wire can exit either the front or rear of the base. There are inserts that press in and are held in place via friction for covering unused slots or for keeping the cable in the slot. There is also a small plate that mounts under the base to hold the cable in place. These are all optional.
-
 While prototyping, I printed all of these parts using 0.28mm layers. Everything looked and worked fine using these coarse layers, even the threads, but your milage may vary. The thread fit could also be affected by your printer's flow rate.
 
 Both versions of the claw have worked well for me. The jointed claw may be delicate. I just press inward near the joint using my thumb to loosen up the joints. The jointed claw has a slightly larger gap where the cable should pass through. There is a mark (a small rounded slot) showing where the wire should go.
@@ -33,7 +31,6 @@ As with all of my designs, there is a repo for this one on my [Github](https://g
 |`cradle-v1.stl`|Optional peice the sits between the watch and the base.|No.|
 |`foot.stl`|A small foot for the base.|No.|
 |`*-claw.stl`|Clamps the charger into the charger mount.|Required for V1 and V2.|
-|`front-slot-cover.stl`|Optional cover for the front cable pass-through slot.|No.|
 |`screw-*.stl`|Screws into the charger mount and operates the clamping mechanism.|Yes.|
 |`shim-v2.stl`|Can be used instead of a stop for V2 charger mount.|No.|
 |`*-slot-cover.stl`|Optional cover for the front cable pass-through slot.|No.|
