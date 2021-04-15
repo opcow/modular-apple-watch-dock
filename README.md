@@ -44,6 +44,6 @@ As with all of my designs, there is a repo for this one on my [Github](https://g
 |`README.md`|The documentation. |No.|
 
 ![image3](https://raw.githubusercontent.com/opcow/modular-apple-watch-dock/main/Images/image3.png)
-![image4](https://raw.githubusercontent.com/opcow/modular-apple-watch-dock/main/Images/image3.png)
+![image4](https://raw.githubusercontent.com/opcow/modular-apple-watch-dock/main/Images/image4.png)
 ![image2](https://raw.githubusercontent.com/opcow/modular-apple-watch-dock/main/Images/image2.png)
 ![image1](https://raw.githubusercontent.com/opcow/modular-apple-watch-dock/main/Images/image1.png)
