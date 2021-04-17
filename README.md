@@ -6,7 +6,7 @@ Version 2 uses an adjustable stop for the charger mount. You'll need to print th
 
 The cradle part is optional. My 44mm v6 watch doesn't need it. Maybe it could help with the 40mm, or use V2 which can be adjusted for the size of your watch. ¯\\_(ツ)_/¯
 
-Both versions of the claw have worked well for me. The jointed claw may be delicate. I just press inward near the joint using my thumb to loosen up the joints. The jointed claw has a slightly larger gap where the cable should pass through. There is a mark (a small rounded slot) showing where the wire should go.
+Both versions of the claw have worked well for me. The jointed claw may be delicate. The jointed claw has a slightly larger gap where the cable should pass through. There is a mark (a small rounded slot) showing where the wire should go.
 
 How to Print
 ---
@@ -14,7 +14,7 @@ Use whatever layer hieght you want. Infill as low as 10% has worked fine in my p
 
 I have printed all of the parts at 0.28 mm layer height and everything looked and printed fine. I print the charger mount thread side up, the base with its top side down (I have printed it with the feet side down using supports and that worked fine as well).
 
-You want good layer adhesion for the claw. I raised my usual print temperature a bit which made the claw less prone to breakage, but you want good cooling as well so the parts don’t fuse together too much. Some early iterations of the part were prone to breakage, but I had no issues with the later ones, and I’ve printed quite a few. The claw is small and prints fast, in case you need to do a little trial and error or if you break it. I like to losen up the joints a bit before intalling the jointed claw, which I do by pressing inward near the joint. If you press in at the end of the finger then you are more likely to break break it.
+You want good layer adhesion for the claw. I raised my usual print temperature a bit which made the claw less prone to breakage, but you want good cooling as well so the parts don’t fuse together too much. Some early iterations of the part were prone to breakage, but I've had no issues with the later ones, and I’ve printed quite a few. The claw is small and prints fast, in case you need to do a little trial and error or if you break it. I like to losen up the joints a bit before intalling the jointed claw, which I do by pressing inward near the joint. If you press in at the end of the finger then you are more likely to break break it.
 
 ---
 
