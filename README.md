@@ -36,6 +36,5 @@ There is a repo for this design on on my [Github](https://github.com/opcow?tab=r
 |`README.md`|The documentation. |No.|
 
 ![image3](https://raw.githubusercontent.com/opcow/modular-apple-watch-dock/main/Images/image3.png)
-![image4](https://raw.githubusercontent.com/opcow/modular-apple-watch-dock/main/Images/image4.png)
 ![image2](https://raw.githubusercontent.com/opcow/modular-apple-watch-dock/main/Images/image2.png)
 ![image1](https://raw.githubusercontent.com/opcow/modular-apple-watch-dock/main/Images/image1.png)
